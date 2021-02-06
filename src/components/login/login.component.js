@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Styled from 'styled-components';
-import SquareBox from '../../layouts/squarebox/squarebox.layout';
 
 const Styles = Styled.div`
   display: flex;
